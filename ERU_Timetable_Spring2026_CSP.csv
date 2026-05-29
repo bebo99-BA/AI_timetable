@@ -1,0 +1,161 @@
+﻿Session ID,Course Code,Course Name,Instructor,Session Type,Day,Time Block,Room
+SES_0073,ACC421,Advanced Accounting,Dr. Farouk,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-1
+SES_0036,FIN417,Econometrics for Finance,Dr. Engy,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-10
+SES_0067,POL101,Principles of Political Science,Dr. Amany,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-11
+SES_0014,HM005,Scientific Thinking,Dr. Haidy,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-12
+SES_0076,ACC226,Fundamentals of Managerial Accounting,T.A Amr,Section,Sunday,09:00-09:50 (Slot 1),CR-13
+SES_0005,HM002,Russian Language 2,Dr. Halema,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-14
+SES_0025,ACC309,Cost Accounting 2,Dr. M Farouk,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-15
+SES_0064,BIT303,Networking and Telecommunications,Dr. Ayat,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-16
+SES_0015,ACC309,Cost Accounting 2,M. Fadeel,Section,Sunday,09:00-09:50 (Slot 1),CR-2
+SES_0136,MKI402,Graduation Project 2,Dr. Yasser,Lecture,Sunday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-3
+SES_0027,ECO313,Energy Economics,Shrouk,Section,Sunday,09:00-09:50 (Slot 1),CR-4
+SES_0123,ACC226,Fundamentals of Managerial Accounting,Dr. Mohsen,Lecture,Sunday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-5
+SES_0114,DBF406,Financial Derivatives,Dr. Ehab,Lecture,Sunday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-7
+SES_0093,IST103,Fundamentals of Information Systems,Dr. Reham,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",CR-8
+SES_0053,ACC125,Financial Accounting,T.A Nouf,Section,Sunday,09:00-09:50 (Slot 1),CR-9
+SES_0086,BUA302,Marketing Analytics,T.A Mona,Lab,Sunday,"09:00-10:40 (Slot 1, Slot 2)",LAB-1
+SES_0069,BUA201,Introduction to Business Analytics,T.A Salem,Lab,Sunday,"09:00-10:40 (Slot 1, Slot 2)",LAB-3
+SES_0116,IST311,Web Based Application,T.A Paula,Lab,Sunday,"09:00-10:40 (Slot 1, Slot 2)",LAB-4
+SES_0115,IST104,System Analysis and Design 1,T.A Ola,Lab,Sunday,"09:00-10:40 (Slot 1, Slot 2)",LAB-5
+SES_0034,COS424,Database Security,T.A Mennatullah,Lab,Sunday,"09:00-10:40 (Slot 1, Slot 2)",LAB-6
+SES_0158,DBF302,Valuation of Companies and Cash Flow,Dr. Osama,Lecture,Sunday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-1
+SES_0029,MIS303,Decision Making & Info Systems,Dr. Ghada,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",LH-2
+SES_0059,COS102,Introduction to Programming,Dr. Marwa Elsayed,Lecture,Sunday,"09:00-10:40 (Slot 1, Slot 2)",LH-4
+SES_0131,MGT415,Graduation Project,Dr. Mona,Lecture,Sunday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-5
+SES_0077,ACC226,Fundamentals of Managerial Accounting,T.A Nouf,Section,Sunday,09:50-10:40 (Slot 2),CR-2
+SES_0071,ACC419,Forensic Accounting,M. Fadeel,Section,Sunday,09:50-10:40 (Slot 2),CR-4
+SES_0050,ACC125,Financial Accounting,T.A Amr,Section,Sunday,09:50-10:40 (Slot 2),CR-9
+SES_0055,ACC102,Financial Accounting 2,M. Fadeel,Section,Sunday,10:40-11:30 (Slot 3),CR-10
+SES_0149,STA103,Statistics and Probability 1,T.A Salem,Section,Sunday,10:40-11:30 (Slot 3),CR-16
+SES_0091,FIN304,Financial Technologies (Fintech),Dr. Engy,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",CR-1
+SES_0101,MGT101,Introduction to Management,Dr. Mona,Lecture,Sunday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-10
+SES_0068,FIN303,SMEs Finance,Dr. Ehab,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",CR-14
+SES_0049,ACC204,Intermediate Accounting 2,Dr. M Farouk,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",CR-2
+SES_0070,IST104,System Analysis and Design 1,Dr. Ghada,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",CR-3
+SES_0156,ACC307,Tax Accounting,M. Fadeel,Section,Sunday,12:10-13:00 (Slot 4),CR-4
+SES_0080,COS422,Blockchain and Crypto Assets,Dr. Marwa Elsayed,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",CR-5
+SES_0095,POL431,Graduation Project,Dr. Amany,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",CR-7
+SES_0042,IST309,Info Retrieval and Web Search,Dr. Ayat,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",CR-9
+SES_0096,BIT303,Networking and Telecommunications,T.A Ola,Lab,Sunday,"12:10-13:50 (Slot 4, Slot 5)",LAB-2
+SES_0038,IST207,Database System 2,T.A Mennatullah,Lab,Sunday,"12:10-13:50 (Slot 4, Slot 5)",LAB-3
+SES_0082,LAW301,Business Law,Dr. Haidy,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",LH-2
+SES_0006,DAS410,Foundation of Big Data,Dr. Yasser,Lecture,Sunday,"12:10-13:50 (Slot 4, Slot 5)",LH-3
+SES_0152,FIN201,Principles of Finance and Investment,Dr. Osama,Lecture,Sunday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",LH-4
+SES_0132,BUA425,Graduation Project 2,Dr. Rowida & Shady,Lecture,Monday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-10
+SES_0128,ECO422,Graduation Project,Dr. Engy,Lecture,Monday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-14
+SES_0072,MIS408,Accounting Information Systems,Dr. Hend,Lecture,Monday,"09:00-10:40 (Slot 1, Slot 2)",CR-15
+SES_0098,ECO327,International Economics / Foreign Trade,Dr. Hossam,Lecture,Monday,"09:00-10:40 (Slot 1, Slot 2)",CR-16
+SES_0087,BIT406,Data Security,Dr. Yasser,Lecture,Monday,"09:00-10:40 (Slot 1, Slot 2)",CR-2
+SES_0134,MIS425,Graduation Project 2,Dr. Ghada & Reham,Lecture,Monday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-4
+SES_0051,MGT309,International Business Management,Dr. Sara,Lecture,Monday,"09:00-10:40 (Slot 1, Slot 2)",CR-5
+SES_0117,ECO102,Introduction to Macroeconomics,T.A M. Gamal,Section,Monday,09:00-09:50 (Slot 1),CR-6
+SES_0060,MTH102,Financial Mathematics,Saleem,Section,Monday,09:00-09:50 (Slot 1),CR-8
+SES_0127,FIN410,Investment Portfolio Management,T.A Hanin,Section,Monday,09:00-09:50 (Slot 1),CR-9
+SES_0047,IST309,Info Retrieval and Web Search,T.A Mariem,Lab,Monday,"09:00-10:40 (Slot 1, Slot 2)",LAB-3
+SES_0104,IST104,System Analysis and Design 1,T.A Nada,Lab,Monday,"09:00-10:40 (Slot 1, Slot 2)",LAB-4
+SES_0002,MIS408,Accounting Information Systems,T.A Paula,Lab,Monday,"09:00-10:40 (Slot 1, Slot 2)",LAB-6
+SES_0103,MKI404,Customer Relationship Management,Dr. Mona,Lecture,Monday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-2
+SES_0157,MGT308,Supply Chain Management,Dr. Pancee,Lecture,Monday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-3
+SES_0031,ECO308,Development Economics,Dr. Saad,Lecture,Monday,"09:00-10:40 (Slot 1, Slot 2)",LH-5
+SES_0144,MKT407,Marketing Strategy,Dr. Pancee,Lecture,Monday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-1
+SES_0056,ECO102,Introduction to Macroeconomics,Dr. Saad,Lecture,Monday,"12:10-13:50 (Slot 4, Slot 5)",CR-10
+SES_0063,BUA302,Marketing Analytics,Dr. Mona,Lecture,Monday,"12:10-13:50 (Slot 4, Slot 5)",CR-16
+SES_0151,DBF301,Principles of Digital Banking and Fintech,Dr. Engy,Lecture,Monday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-3
+SES_0052,BUA201,Introduction to Business Analytics,Dr. Rowida,Lecture,Monday,"12:10-13:50 (Slot 4, Slot 5)",CR-8
+SES_0046,IST103,Fundamentals of Information Systems,T.A Paula,Lab,Monday,"12:10-13:50 (Slot 4, Slot 5)",LAB-2
+SES_0099,STA306,Operation Research,T.A Mariem,Lab,Monday,"12:10-13:50 (Slot 4, Slot 5)",LAB-5
+SES_0044,ACC424,Information System Audit,Dr. Hend,Lecture,Monday,"12:10-13:50 (Slot 4, Slot 5)",LH-1
+SES_0026,BUA310,Data Science for Social Science,Dr. Shady,Lecture,Monday,"12:10-13:50 (Slot 4, Slot 5)",LH-4
+SES_0028,COS424,Database Security,Dr. Maged,Lecture,Tuesday,"09:00-10:40 (Slot 1, Slot 2)",CR-1
+SES_0140,FIN201,Principles of Finance and Investment,T.A Sabreen,Section,Tuesday,09:00-09:50 (Slot 1),CR-12
+SES_0122,ECO327,Foreign Trade / International Economics,Dr. Hossam,Lecture,Tuesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-14
+SES_0007,ACC308,Auditing 1,Amr,Section,Tuesday,09:00-09:50 (Slot 1),CR-15
+SES_0092,ACC419,Forensic Accounting,Dr. Hend,Lecture,Tuesday,"09:00-10:40 (Slot 1, Slot 2)",CR-16
+SES_0018,MKT406,Brand Management,Dr. Sara Elmeneawy,Lecture,Tuesday,"09:00-10:40 (Slot 1, Slot 2)",CR-2
+SES_0109,MGT310,Innovation and Leadership,Nouran,Section,Tuesday,09:00-09:50 (Slot 1),CR-3
+SES_0141,ECO420,Industrial Economics,Dr. Eman,Lecture,Tuesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-4
+SES_0124,POL312,Geopolitics,Dr. Haidy,Lecture,Tuesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-5
+SES_0154,MGT416,Strategic Management,Dr. Dina,Lecture,Tuesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-6
+SES_0013,MKT406,Brand Management,Alaa Nagib,Section,Tuesday,09:00-09:50 (Slot 1),CR-7
+SES_0090,HM004,English Language 2,Dr. Amany,Lecture,Tuesday,"09:00-10:40 (Slot 1, Slot 2)",CR-8
+SES_0024,ACC420,Contemporary Issues in Accounting & Auditing,Dr. Nehad,Lecture,Tuesday,"09:00-10:40 (Slot 1, Slot 2)",CR-9
+SES_0094,BIT303,Networking and Telecommunications,T.A Abdelfattah,Lab,Tuesday,"09:00-10:40 (Slot 1, Slot 2)",LAB-4
+SES_0105,COS320,Distributed System,Dr. Tarek,Lecture,Tuesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-1
+SES_0142,MGT102,Introduction to Marketing,Dr. Sara,Lecture,Tuesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-2
+SES_0085,MKI403,Customer Analytics,Dr. Mona,Lecture,Tuesday,"09:00-10:40 (Slot 1, Slot 2)",LH-5
+SES_0111,ACC204,Intermediate Accounting 2,Amr,Section,Tuesday,09:50-10:40 (Slot 2),CR-10
+SES_0016,MKI404,Customer Relationship Management,Alaa Nagib,Section,Tuesday,09:50-10:40 (Slot 2),CR-11
+SES_0160,DBF302,Valuation of Companies and Cash Flow,T.A Sabreen,Section,Tuesday,09:50-10:40 (Slot 2),CR-12
+SES_0135,MKT407,Marketing Strategy,Nouran,Section,Tuesday,09:50-10:40 (Slot 2),CR-13
+SES_0155,MGT308,Supply Chain Management,Nouran,Section,Tuesday,10:40-11:30 (Slot 3),CR-3
+SES_0113,MGT309,International Business Management,Alaa Nagib,Section,Tuesday,10:40-11:30 (Slot 3),CR-9
+SES_0143,ECO101,Introduction to Microeconomics,Dr. Hossam,Lecture,Tuesday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-1
+SES_0102,MGT307,Business Ethics and CSR,Dr. Sara,Lecture,Tuesday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-2
+SES_0075,IST303,Advanced Topics in Info Systems,Dr. Tarek,Lecture,Tuesday,"12:10-13:50 (Slot 4, Slot 5)",CR-3
+SES_0107,ECO313,Energy Economics,Dr. Eman,Lecture,Tuesday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-4
+SES_0010,COS101,Introduction to Computer Science,Dr. Maged,Lecture,Tuesday,"12:10-13:50 (Slot 4, Slot 5)",CR-6
+SES_0089,HM003,English Language 1,Dr. Amany,Lecture,Tuesday,"12:10-13:50 (Slot 4, Slot 5)",CR-8
+SES_0017,ACC308,Auditing 1,Dr. Nehad,Lecture,Tuesday,"12:10-13:50 (Slot 4, Slot 5)",LH-1
+SES_0100,MGT203,HR Management,Dr. Dina,Lecture,Tuesday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",LH-2
+SES_0147,POL430,Politics and Technology,Dr. Haidy,Lecture,Tuesday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",LH-4
+SES_0129,FIN413,Graduation Project,Dr. Osama,Lecture,Wednesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-10
+SES_0153,STA103,Statistics and Probability 1,Dr. Nada,Lecture,Wednesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-11
+SES_0159,IST311,Web Based Application,Dr. Reham,Lecture,Wednesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-12
+SES_0118,FIN305,Financial Markets and Institutions,Dr. Sohair,Lecture,Wednesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-14
+SES_0065,FIN411,Financial Modeling and Valuation,Hanin,Section,Wednesday,09:00-09:50 (Slot 1),CR-15
+SES_0062,ECO311,Labor Economics,Dr. Saad,Lecture,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",CR-16
+SES_0003,ECO204,International Economics,Abdelkader,Lecture,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",CR-2
+SES_0150,BUA304,Predictive Analytics,Dr. Rowida,Lecture,Wednesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-3
+SES_0023,ECO421,Contemporary Economic Issues,Dr. Hossam,Lecture,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",CR-5
+SES_0057,DBF406,Financial Derivatives,Sabreen,Section,Wednesday,09:00-09:50 (Slot 1),CR-8
+SES_0035,MGT432,Distribution Channels Management,Dr. Pancee,Lecture,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",CR-9
+SES_0041,DAS410,Foundation of Big Data,T.A Abdelrahman,Lab,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",LAB-2
+SES_0009,IST303,Advanced Topics in Info Systems,T.A Abdelfattah,Lab,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",LAB-4
+SES_0040,COS320,Distributed System,T.A Safaa,Lab,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",LAB-5
+SES_0021,BUA303,Business Intelligence,T.A Nouran,Lab,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",LAB-6
+SES_0037,MTH102,Financial Mathematics,—,Lecture,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",LH-1
+SES_0008,ARI301,Introduction to Artificial Intelligence,Dr. Shady,Lecture,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",LH-3
+SES_0088,IST207,Database System 2,Dr. Ghada,Lecture,Wednesday,"09:00-10:40 (Slot 1, Slot 2)",LH-4
+SES_0112,ACC102,Financial Accounting 2,Dr. Marwa,Lecture,Wednesday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-5
+SES_0066,FIN314,Financial Risk Management,Sabreen,Section,Wednesday,09:50-10:40 (Slot 2),CR-13
+SES_0058,FIN305,Financial Markets and Institutions,Hanin,Section,Wednesday,09:50-10:40 (Slot 2),CR-4
+SES_0130,ECO311,Labor Economics,Abdelkader,Section,Wednesday,10:40-11:30 (Slot 3),CR-13
+SES_0148,FIN303,SMEs Finance,Hanin,Section,Wednesday,10:40-11:30 (Slot 3),CR-6
+SES_0022,BUA409,Business Forecasting,Dr. Rowida,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-1
+SES_0043,ECO426,Information Economics,Dr. Hossam,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-10
+SES_0001,IST101,Information System 1,Dr. Reham,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-12
+SES_0011,STA306,Operation Research,Dr. Nada,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-14
+SES_0081,BUA303,Business Intelligence,Dr. Shady,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-2
+SES_0097,ECO419,History of Economic Thoughts,Dr. Saad,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-3
+SES_0078,FIN412,Behavioral Finance,Dr. Osama,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-6
+SES_0045,MGT310,Innovation and Leadership,Dr. Pancee,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",CR-8
+SES_0039,MIS303,Decision Making & Info Systems,T.A Abdelfattah,Lab,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",LAB-3
+SES_0054,ARI301,Introduction to Artificial Intelligence,T.A Abdelrahman,Lab,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",LAB-4
+SES_0083,COS102,Introduction to Programming,T.A Safaa,Lab,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",LAB-5
+SES_0110,ACC125,Financial Accounting,Dr. Marwa,Lecture,Wednesday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",LH-2
+SES_0061,FIN410,Investment Portfolio Management,Dr. Sohair,Lecture,Wednesday,"12:10-13:50 (Slot 4, Slot 5)",LH-3
+SES_0004,ACC421,Advanced Accounting,Nouf,Section,Thursday,09:00-09:50 (Slot 1),CR-1
+SES_0125,ACC418,Graduation Project,Dr. Nehad + Dr. Hend + Dr. Farouk,Lecture,Thursday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-11
+SES_0019,ECO310,Econometrics,T.A Idwa,Section,Thursday,09:00-09:50 (Slot 1),CR-2
+SES_0145,MTH103,Mathematics,Dr. Wael,Lecture,Thursday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",CR-3
+SES_0126,STA201,Introduction to Statistics,T.A Ahmed Ibrahim,Section,Thursday,09:00-09:50 (Slot 1),CR-4
+SES_0121,ECO101,Introduction to Microeconomics,T.A Shrouk,Section,Thursday,09:00-09:50 (Slot 1),CR-8
+SES_0084,BUA302,Marketing Analytics,T.A Abdelrahman,Lab,Thursday,"09:00-10:40 (Slot 1, Slot 2)",LAB-1
+SES_0030,MKI403,Customer Analytics,T.A Nouran,Lab,Thursday,"09:00-10:40 (Slot 1, Slot 2)",LAB-2
+SES_0032,BUA310,Data Science for Social Science,T.A Mona,Lab,Thursday,"09:00-10:40 (Slot 1, Slot 2)",LAB-3
+SES_0012,COS422,Blockchain and Crypto Assets,T.A Nada,Lab,Thursday,"09:00-10:40 (Slot 1, Slot 2)",LAB-4
+SES_0048,IST101,Information System 1,T.A Asmaa,Lab,Thursday,"09:00-10:40 (Slot 1, Slot 2)",LAB-5
+SES_0133,DBF407,Graduation Project 2,Dr. Engy,Lecture,Thursday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-3
+SES_0119,FIN411,Financial Modeling and Valuation,Dr. Ehab,Lecture,Thursday,"09:00-11:30 (Slot 1, Slot 2, Slot 3)",LH-4
+SES_0139,DBF301,Principles of Digital Banking and Fintech,T.A Idwa,Section,Thursday,09:50-10:40 (Slot 2),CR-15
+SES_0108,ACC424,Information System Audit,Nouf,Section,Thursday,09:50-10:40 (Slot 2),CR-16
+SES_0137,MTH103,Mathematics,T.A Ahmed Ibrahim,Section,Thursday,09:50-10:40 (Slot 2),CR-7
+SES_0138,MTH101,Mathematics 1,T.A Ahmed Ibrahim,Section,Thursday,10:40-11:30 (Slot 3),CR-8
+SES_0120,FIN314,Financial Risk Management,Dr. Ehab,Lecture,Thursday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-16
+SES_0106,ECO310,Econometrics,Dr. Engy,Lecture,Thursday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",CR-2
+SES_0020,BUA409,Business Forecasting,T.A Nouran,Lab,Thursday,"12:10-13:50 (Slot 4, Slot 5)",LAB-1
+SES_0079,COS102,Introduction to Programming,T.A Mona,Lab,Thursday,"12:10-13:50 (Slot 4, Slot 5)",LAB-2
+SES_0033,BIT406,Data Security,T.A Nada,Lab,Thursday,"12:10-13:50 (Slot 4, Slot 5)",LAB-3
+SES_0074,COS101,Introduction to Computer Science,T.A Asmaa,Lab,Thursday,"12:10-13:50 (Slot 4, Slot 5)",LAB-4
+SES_0146,MTH101,Mathematics 1,Dr. Wael,Lecture,Thursday,"12:10-14:40 (Slot 4, Slot 5, Slot 6)",LH-2
